@@ -55,6 +55,7 @@ p {
   text-align: center;
   width: 288px;
   height: 131px;
+  padding: 0 16px;
 }
 
 .attribution {
