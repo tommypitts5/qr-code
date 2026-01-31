@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/tommypitts5/qr-code)
+- Live Site URL: [Add live site URL here](https://tommypitts5.github.io/qr-code/)
 
 ## My process
 
@@ -77,4 +77,4 @@ Need to work on my CSS workflow, would like to solidify my knowledge of position
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tommypitts5)
+- Frontend Mentor - [@tommypitts5](https://www.frontendmentor.io/profile/tommypitts5)
